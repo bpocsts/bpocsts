@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm bpocsts
 
 I'm a passionate software developer specializing in web and mobile development. I love building projects with modern technologies like React, Node.js, and Flutter!
 
