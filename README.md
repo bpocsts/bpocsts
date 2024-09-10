@@ -11,21 +11,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-## 🛠️ My Skills
 
-- **Languages**: JavaScript, Python, Dart
-- **Frameworks**: React, Node.js, Express, Flutter
-- **Tools**: Git, Docker, Kubernetes
-
-## 🚀 My Projects
-
-- [Awesome Project](https://github.com/yourusername/awesome-project): A cool app that does awesome things!
-- [Another Cool Project](https://github.com/yourusername/another-cool-project): Another project that I'm proud of!
-
-## 📫 How to Reach Me
-
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Email](mailto:yourname@example.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)
 
